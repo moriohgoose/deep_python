@@ -1,0 +1,111 @@
+1.1
+-> python nl.py mlem.txt
+1       chipi chipi
+2       chapa chapa
+3       duby duby
+4       daba daba
+
+-> python nl.py 
+chipi
+1       chipi
+chipi
+2       chipi
+chapa
+3       chapa
+chapa
+4       chapa
+
+1.2
+-> python tail.py rick.txt
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+
+-> python tail.py scary.txt mlem.txt rick.txt
+==> scary.txt <==
+we 
+don't know
+what it is
+if
+we
+know
+what is that
+we
+don't know
+what is that
+==> mlem.txt <==
+chipi chipi
+chapa chapa
+duby duby
+daba daba
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+
+-> python tail.py 
+Io da casa, subito ti chiamo
+Rispondimi presto
+Rispondi, "Ti amo"
+Ma dove vuoi andare? Ti amo
+Ti annoi? Va bene, balliamo
+Sei bella, ti lasci guardare
+Con te non c'è niente da fare
+Nascosta dai lunghi capelli
+Tu balli, ma i gesti son quelli
+Bambina, ti voglio, ti sento
+Ti muovi, mi sfuggi, mi arrendo
+
+Gelato al cioccolato, dolce e un po' salato
+Tu, gelato al cioccolato
+Un bacio al cioccolato io te l'ho rubato
+Tu, gelato al cioccolato
+
+^Z
+Io da casa, subito ti chiamo
+Rispondimi presto
+Rispondi, "Ti amo"
+Ma dove vuoi andare? Ti amo
+Ti annoi? Va bene, balliamo
+Sei bella, ti lasci guardare
+Con te non c'è niente da fare
+Nascosta dai lunghi capelli
+Tu balli, ma i gesti son quelli
+Bambina, ti voglio, ti sento
+Ti muovi, mi sfuggi, mi arrendo
+
+Gelato al cioccolato, dolce e un po' salato
+Tu, gelato al cioccolato
+Un bacio al cioccolato io te l'ho rubato
+Tu, gelato al cioccolato
+
+1.3
+-> python wc.py rick.txt
+35 200 1000 rick.txt
+
+-> python wc.py rick.txt mlem.txt scary.txt
+35 200 1000 rick.txt
+4 8 43 mlem.txt
+13 21 104 scary.txt
+52 229 1147 total
+
+-> python wc.py
+Somebody once told me the world is gonna roll me
+I ain't the sharpest tool in the shed
+She was looking kind of dumb with her finger and her thumb
+In the shape of an "L" on her forehead
+^Z
+4 39 185
