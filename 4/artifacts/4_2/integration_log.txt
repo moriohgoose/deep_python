@@ -1,0 +1,4 @@
+2024-04-01 19:00:33,163 - Finished integration with 1 workers in 0.017991304397583008 seconds
+2024-04-01 19:00:33,181 - Finished integration with 2 workers in 0.016002178192138672 seconds
+2024-04-01 19:00:33,201 - Finished integration with 3 workers in 0.018997907638549805 seconds
+2024-04-01 19:00:33,222 - Finished integration with 4 workers in 0.01899886131286621 seconds
