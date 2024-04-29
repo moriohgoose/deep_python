@@ -1,0 +1,41 @@
+In the office of the Lord breaks his Butler and shouts at him waving his arms:
+[2024-04-30 02:25:39] Input in cmd: In the office of the Lord breaks his Butler and shouts at him waving his arms:
+[2024-04-30 02:25:39] Message from Process A: In the office of the Lord breaks his Butler and shouts at him waving his arms:
+[2024-04-30 02:25:39] Message from Process B: in the office of the lord breaks his butler and shouts at him waving his arms:
+[2024-04-30 02:25:39] Output in main: va gur bssvpr bs gur ybeq oernxf uvf ohgyre naq fubhgf ng uvz jnivat uvf nezf:
+
+- Sir, it is necessary to evacuate, the river overflowed the banks and any moment now flood the Palace!..
+[2024-04-30 02:25:39] Input in cmd: - Sir, it is necessary to evacuate, the river overflowed the banks and any moment now flood the Palace!..
+[2024-04-30 02:25:44] Message from Process A: - Sir, it is necessary to evacuate, the river overflowed the banks and any moment now flood the Palace!..
+[2024-04-30 02:25:44] Message from Process B: - sir, it is necessary to evacuate, the river overflowed the banks and any moment now flood the palace!..
+[2024-04-30 02:25:44] Output in main: - fve, vg vf arprffnel gb rinphngr, gur evire biresybjrq gur onaxf naq nal zbzrag abj sybbq gur cnynpr!..
+
+"However, John, I dare say that this fact does not absolve You of the obligation to report it in the proper form, in accordance with the generally accepted etiquette in Britain!"..
+[2024-04-30 02:25:44] Input in cmd: "However, John, I dare say that this fact does not absolve You of the obligation to report it in the proper form, in accordance with the generally accepted etiquette in Britain!"..
+[2024-04-30 02:25:49] Message from Process A: "However, John, I dare say that this fact does not absolve You of the obligation to report it in the proper form, in accordance with the generally accepted etiquette in Britain!"..
+[2024-04-30 02:25:49] Message from Process B: "however, john, i dare say that this fact does not absolve you of the obligation to report it in the proper form, in accordance with the generally accepted etiquette in britain!"..
+[2024-04-30 02:25:49] Output in main: "ubjrire, wbua, v qner fnl gung guvf snpg qbrf abg nofbyir lbh bs gur boyvtngvba gb ercbeg vg va gur cebcre sbez, va nppbeqnapr jvgu gur trarenyyl npprcgrq rgvdhrggr va oevgnva!"..
+
+You're right. I beg your pardon, sir!..
+[2024-04-30 02:25:49] Input in cmd: You're right. I beg your pardon, sir!..
+[2024-04-30 02:25:54] Message from Process A: You're right. I beg your pardon, sir!..
+[2024-04-30 02:25:54] Message from Process B: you're right. i beg your pardon, sir!..
+[2024-04-30 02:25:54] Output in main: lbh'er evtug. v ort lbhe cneqba, fve!..
+
+He leaves the office, closing the door tightly behind him.
+[2024-04-30 02:25:54] Input in cmd: He leaves the office, closing the door tightly behind him.
+[2024-04-30 02:25:59] Message from Process A: He leaves the office, closing the door tightly behind him.
+[2024-04-30 02:25:59] Message from Process B: he leaves the office, closing the door tightly behind him.
+[2024-04-30 02:25:59] Output in main: ur yrnirf gur bssvpr, pybfvat gur qbbe gvtugyl oruvaq uvz.
+
+A minute later, the door to the study swings open again and a stream of water brings the Butler, stretched out "on a string" with the words:
+[2024-04-30 02:25:59] Input in cmd: A minute later, the door to the study swings open again and a stream of water brings the Butler, stretched out "on a string" with the words:
+[2024-04-30 02:26:04] Message from Process A: A minute later, the door to the study swings open again and a stream of water brings the Butler, stretched out "on a string" with the words:
+[2024-04-30 02:26:04] Message from Process B: a minute later, the door to the study swings open again and a stream of water brings the butler, stretched out "on a string" with the words:
+[2024-04-30 02:26:04] Output in main: n zvahgr yngre, gur qbbe gb gur fghql fjvatf bcra ntnva naq n fgernz bs jngre oevatf gur ohgyre, fgergpurq bhg "ba n fgevat" jvgu gur jbeqf:
+
+- Thames, sir!..
+[2024-04-30 02:26:05] Input in cmd: - Thames, sir!..
+[2024-04-30 02:26:09] Message from Process A: - Thames, sir!..
+[2024-04-30 02:26:09] Message from Process B: - thames, sir!..
+[2024-04-30 02:26:09] Output in main: - gunzrf, fve!..
